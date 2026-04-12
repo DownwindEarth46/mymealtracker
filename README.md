@@ -12,4 +12,4 @@ To run frontend:
 - cd into ./frontend/my-app
 - start phone on android studio or xcode
 - wait for phone to fully boot
-- npm run android
+- npm run android OR npm run ios
